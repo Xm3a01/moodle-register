@@ -1,0 +1,22 @@
+body
+{
+    background: #20d17e;
+}
+.form
+{
+    background: rgba(15, 134, 163, 0.925);
+    width: 350px;
+    height: 500px;
+    margin-top: 20px;
+    padding-top: 50px;
+}
+.showusers
+{
+  margin-top:100px;
+}
+input
+{
+  border: none;
+  border-radius: 0px;
+  
+}
